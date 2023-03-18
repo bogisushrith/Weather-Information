@@ -1,0 +1,7 @@
+html {
+  background: url("img1.jpeg") no-repeat center center fixed;
+  background-size: cover;
+}
+body{
+  text-align: center;
+}
